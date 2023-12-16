@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/coxQHKASG60HrHtvkt)](https://rishavchanda.io)
+[![MasterHead](https://giphy.com/gifs/coxQHKASG60HrHtvkt)]
 <h1 align="center">Hi 👋, I'm Naveen Raj</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
