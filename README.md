@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/gifs/coxQHKASG60HrHtvkt)]
+[![MasterHead](<iframe src="https://giphy.com/embed/coxQHKASG60HrHtvkt" width="480" height="251" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coxQHKASG60HrHtvkt">via GIPHY</a></p>)]
 <h1 align="center">Hi 👋, I'm Naveen Raj</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
